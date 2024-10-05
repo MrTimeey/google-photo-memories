@@ -1,16 +1,8 @@
-# typescript-node-express-starter
+# google-photo-memories
 
-Simple project template to create a typescript node express repository including a hello-world endpoint and a SwaggerUi.
-
-## Preconditions
-
-Create `.env` from `.env.example`.
+Simple project to show random photos from your Google-Photos-Library.
 
 ## Execution
-
-There are different ways to start the application.
-
-After startup http://localhost:8080/ will display the SwaggerUI for your API.
 
 ### Dev-Mode
 
